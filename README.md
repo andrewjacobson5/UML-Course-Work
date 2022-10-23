@@ -1,5 +1,5 @@
 # UML-Course-Work includes: 
-Computing I - Intro to C
+..* Computing I - Intro to C
 Computing II - Data Structures In C
 Computing III - C++ OOP
 Assembly Language Programming - Programming in MIPS and Intel x86
